@@ -1,0 +1,11 @@
+# Compiled executables
+dino_game
+artillery_game
+*.o
+
+# Uncompressed bitmap screenshots (compressed PNG are tracked)
+*.bmp
+
+# Temporary files
+*~
+.DS_Store
